@@ -141,9 +141,15 @@ header nav a{
 .project-img {
     width: 325px;
 }
+
 .project-img img {
     display: block;
     width: 100%;
+    border-radius: 4px;
+    box-shadow: 2px 2px 2px black;
+}
+.project-img:hover {
+    transform: scale(1.05);
 }
 .project-details {
     height: 100%;

@@ -120,6 +120,11 @@ header nav a{
     border-radius: 2%;
 }
 
+.skills-list li img {
+    height: 70px;
+    padding: 2%;
+}
+
 .portfolio {
     text-align: center;
 }
